@@ -1,5 +1,5 @@
 ### Building autonomous multi-agent AI systems
 
-Twenty-six years of web and software engineering. Currently shipping a production multi-agent orchestration system: 10+ specialized Claude agents under a master loop with budget gates, learning propagation, permission boundaries, and human judgment in the loop.
+I'm Ocean. Twenty-six years of production software engineering (Adobe, CoStar, HomeAway, lynda.com). Currently working on a production multi-agent orchestration system: 10+ specialized Claude agents coordinated by an autonomous master loop, with budget gates, cross-agent learning propagation, permission boundaries, and human judgment kept in the loop where it matters.
 
-The engineering problems I care about aren't prompts.
+The engineering problems I care about in agentic AI aren't prompts. They're budget control, knowledge accumulation, permission boundaries, failure recovery, and human judgment.
